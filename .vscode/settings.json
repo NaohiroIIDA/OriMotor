@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/naohiroiida/.platformio/penv/bin:/Users/naohiroiida/.platformio/penv:/opt/local/bin:/opt/local/sbin:/usr/local/CrossPack-AVR/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/CrossPack-AVR/bin:/Users/naohiroiida/.nodebrew/current/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
